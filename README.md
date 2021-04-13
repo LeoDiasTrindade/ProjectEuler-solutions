@@ -1,5 +1,8 @@
 <div style="text-align:center;">
-<img src="https://projecteuler.net/images/euler_portrait.png" class="dark_img" alt="" /></div> <br><br>
+<img src="https://projecteuler.net/images/euler_portrait.png" class="dark_img" alt="" /></div> <br>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LeoDiasTrindade/ProjectEuler-solutions/HEAD)
+<br>
 
 # My solutions for [Project Euler](https://projecteuler.net/) problems
 
